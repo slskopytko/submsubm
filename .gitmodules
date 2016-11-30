@@ -1,0 +1,3 @@
+[submodule "gh-main-repo"]
+	path = gh-main-repo
+	url = git@github.com:slskopytko/gh-main-repo.git
